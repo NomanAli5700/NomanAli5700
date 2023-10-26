@@ -1,4 +1,4 @@
-![Header](![github-header-image](https://github.com/NomanAli5700/NomanAli5700/assets/145667163/bf5f9d28-a20d-4f99-94b6-e09ccc763256)
+(![github-header-image](https://github.com/NomanAli5700/NomanAli5700/assets/145667163/bf5f9d28-a20d-4f99-94b6-e09ccc763256)
 )
 <h1 align="center">Hi 👋, I'm Noman Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
